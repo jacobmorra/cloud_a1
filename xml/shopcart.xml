@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>shopCart featured items and prices (updated Nov 30 2015)</title>
+  <link>www.shopcart.com/frontpage</link>
+  <price>Free web building tutorials</price>
+  <item>
+    <title>Ultimate Twix!</title>
+    <link>www.shopcart.com/frontpage</link>
+    <price>$4.99 per box! </price>
+  </item>
+  <item>
+    <title>Kit Kat Chunky!</title>
+    <link>www.shopcart.com/frontpage</link>
+    <price>$3.99 per box! </price>
+  </item>
+  <item>
+    <title>Mars Bar Xtreme!</title>
+    <link>www.shopcart.com/frontpage</link>
+    <price>$3.99 per box! </price>
+  </item>
+</channel>
+
+</rss>

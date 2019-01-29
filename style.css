@@ -1,0 +1,23 @@
+.jumbotron{
+    background-color: black !important;
+    height: 25%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+.title{
+	color: white;
+	font-size: 50px !important;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+	float: left;
+}
+
+.opaque{
+	opacity: 0.2;
+	filter: alpha(opacity=20); /* For IE8 and earlier */
+}
